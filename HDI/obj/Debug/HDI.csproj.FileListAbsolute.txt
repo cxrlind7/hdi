@@ -1,0 +1,14 @@
+C:\Users\52618\source\repos\HDI\HDI\bin\Debug\HDI.exe.config
+C:\Users\52618\source\repos\HDI\HDI\bin\Debug\HDI.exe
+C:\Users\52618\source\repos\HDI\HDI\bin\Debug\HDI.pdb
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.csproj.AssemblyReference.cache
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.Form1.resources
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.Properties.Resources.resources
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.csproj.GenerateResource.cache
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.csproj.CoreCompileInputs.cache
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.exe
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.pdb
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.UserControls.UserControl2.resources
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.UserControls.UserControl1.resources
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.Form2.resources
+C:\Users\52618\source\repos\HDI\HDI\obj\Debug\HDI.Form3.resources
